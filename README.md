@@ -1,5 +1,7 @@
 # Cooking_Exploration_Spring2025
 Cooking Exploration: Exploring vegan/vegetarian cooking -- mini project 
+
+
 Project description that inspired this project: 
 
 You’ll have the opportunity to practice your culinary skills by choosing at least two themes and creating a plant-based recipe at home for each one. 
